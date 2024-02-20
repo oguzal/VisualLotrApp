@@ -1,0 +1,19 @@
+.nodeParent {
+    fill:rgb(115, 255, 0);
+    font-size:22px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+   }
+
+.node {
+    fill:rgb(214, 226, 43);
+    font-size:11px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    background-color:greenyellow;
+}
+
+.link {
+    stroke: #777;
+    stroke-width: 2px;
+}
