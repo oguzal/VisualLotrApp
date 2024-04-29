@@ -31,5 +31,7 @@ yarn-error.log*
 /.vs/VisualLOTR2/FileContentIndex
 /.vs/VisualLOTR2/v17
 /.vs/VisualLOTR/FileContentIndex
-/.env
 /.vs/VisualLotrApp/FileContentIndex
+/.vs/VisualLotrApp/v17/.wsuo
+/.env
+/.vs/VisualLotrApp/config
