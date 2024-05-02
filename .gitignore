@@ -35,3 +35,5 @@ yarn-error.log*
 /.vs/VisualLotrApp/v17/.wsuo
 /.env
 /.vs/VisualLotrApp/config
+/.vs/VisualLotrApp/v17/TestStore/0
+/.vs/VisualLotrApp/v17
